@@ -1,6 +1,12 @@
 {
   "recommendations": [
     "arcanis.vscode-zipfs",
-    "dbaeumer.vscode-eslint"
+    "dbaeumer.vscode-eslint",
+    "wix.vscode-import-cost",
+    "streetsidesoftware.code-spell-checker",
+    "oderwat.indent-rainbow",
+    "ms-azuretools.vscode-docker",
+    "bierner.markdown-preview-github-styles",
+    "yzhang.markdown-all-in-one"
   ]
 }
