@@ -1,7 +1,4 @@
-module.exports = {
-  reactStrictMode: true,
-  images: {
-    loader: 'imgix',
-    path: '',
-  },
-}
+/** @type {import('next').NextConfig} */
+const nextConfig = {}
+
+module.exports = nextConfig

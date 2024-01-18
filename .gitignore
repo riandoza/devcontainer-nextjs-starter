@@ -29,6 +29,7 @@ yarn-error.log*
 .env.development.local
 .env.test.local
 .env.production.local
+.env*.local
 
 # vercel
 .vercel
@@ -41,3 +42,10 @@ yarn-error.log*
 !.yarn/sdks
 !.yarn/versions
 .pnp.*
+.yarn/install-state.gz
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
