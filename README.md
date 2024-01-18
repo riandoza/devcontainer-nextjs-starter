@@ -6,7 +6,7 @@ This starter assumes the use of VS Code and [Remote Containers](https://code.vis
 
 - Integrated Node.js environment with ZSH, Oh-my-ZSH and Powerlevel10k out of the box.
 - Yarn 2
-- Linuxbrew
+- <del>Linuxbrew</del> (Not available in Debian Bullseye)
 - ZSH Autosuggestions and ZSH Syntax Highlighting
 
 ## Instructions
